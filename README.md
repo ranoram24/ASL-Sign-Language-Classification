@@ -1,5 +1,5 @@
 # ASL Alphabet Sign Language Recognition
-**Authors:** Ran Oram, Shahar Lankry, and Daniel Geron
+**Authors:** Ran Uram, Shahar Lankry, and Daniel Geron
 
 ## Overview
 This project implements an American Sign Language (ASL) alphabet recognition system utilizing Convolutional Neural Networks (CNNs). The objective of the system is to automatically detect and classify human hand gestures corresponding to the 26 letters of the English alphabet (A-Z) from static images. This repository contains the complete deep learning pipeline, from initial data preprocessing through to model architecture design and evaluation.
